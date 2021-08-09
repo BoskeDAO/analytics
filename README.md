@@ -5,6 +5,7 @@ on-chain analytics
 https://www.youtube.com/watch?v=OUQatp9C-Oc&ab_channel=CryptoSheinix
 
 ## SQL con Ethereum
+https://ethereum.org/ml/developers/tutorials/learn-foundational-ethereum-topics-with-sql/
 https://towardsdatascience.com/your-guide-to-basic-sql-while-learning-ethereum-at-the-same-time-9eac17a05929
 https://towardsdatascience.com/your-guide-to-intermediate-sql-while-learning-ethereum-at-the-same-time-7b25119ef1e2
 
