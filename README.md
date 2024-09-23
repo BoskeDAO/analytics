@@ -1,4 +1,4 @@
-# analytics
+# analytics 2.0
 on-chain analytics
 
 ## providers
